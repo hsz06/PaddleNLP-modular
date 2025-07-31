@@ -18,17 +18,20 @@ PaddleNLP 模块化系统由三个主要组件组成，它们协同工作以将�
 |类处理	|ClassCollector|	提取和处理类定义|
 |依赖关系管理|	DependencyResolver|	解析和集成外部依赖关系|
 |代码转换|	SuperCallTransformer|	转换继承模式和方法调用|
+
 **模型转换**
 转换过程遵循系统工作流程，通过多个阶段的分析和代码生成来转换模块化定义：
 ![alt text](f9950dee47aab4918e0dc9702f21cb01.png)
 **工作流程**
 分析阶段：用于解析模块化定义文件，通过专门的访问者类提取导入和类定义。ModularModelConverterlibcst
 
-解决阶段：标识基本模型组件（如 、 ）并映射将在输出中扁平化的继承关系。DependencyResolverLlamaModelLlamaConfig
+解决阶段：标识基本模型组件并映射将在输出中扁平化的继承关系。DependencyResolverLlamaModelLlamaConfig
 
 转换阶段：扩展复杂的继承模式，而类重命名将组件转换为等效组件，从而生成完整的独立实现。SuperCallTransformerLlama*Qwen2*
+
 **生成的模型结构**
 |生成的组件	|基础组件|	功能|
+|----------|--------|-----|
 |Qwen2Config|	LlamaConfig|	模型配置和超参数|
 |Qwen2RMSNorm|	LlamaRMSNorm|	均方根归一化层|
 |Qwen2Attention|	LlamaAttention|	具有 Qwen2 特定功能的多头注意力|
