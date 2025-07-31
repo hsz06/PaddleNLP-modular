@@ -1,0 +1,428 @@
+[
+    {
+        "label": "libcst",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "libcst",
+        "description": "libcst",
+        "detail": "libcst",
+        "documentation": {}
+    },
+    {
+        "label": "libcst.matchers",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "libcst.matchers",
+        "description": "libcst.matchers",
+        "detail": "libcst.matchers",
+        "documentation": {}
+    },
+    {
+        "label": "PositionProvider",
+        "importPath": "libcst.metadata",
+        "description": "libcst.metadata",
+        "isExtraImport": true,
+        "detail": "libcst.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "ParentNodeProvider",
+        "importPath": "libcst.metadata",
+        "description": "libcst.metadata",
+        "isExtraImport": true,
+        "detail": "libcst.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "ScopeProvider",
+        "importPath": "libcst.metadata",
+        "description": "libcst.metadata",
+        "isExtraImport": true,
+        "detail": "libcst.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "QualifiedNameProvider",
+        "importPath": "libcst.metadata",
+        "description": "libcst.metadata",
+        "isExtraImport": true,
+        "detail": "libcst.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "importlib.util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "patcher",
+        "importPath": "fix_import",
+        "description": "fix_import",
+        "isExtraImport": true,
+        "detail": "fix_import",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "paddlenlp.transformers",
+        "description": "paddlenlp.transformers",
+        "isExtraImport": true,
+        "detail": "paddlenlp.transformers",
+        "documentation": {}
+    },
+    {
+        "label": "paddle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "paddle",
+        "description": "paddle",
+        "detail": "paddle",
+        "documentation": {}
+    },
+    {
+        "label": "DataParallel",
+        "importPath": "paddle",
+        "description": "paddle",
+        "isExtraImport": true,
+        "detail": "paddle",
+        "documentation": {}
+    },
+    {
+        "label": "paddle.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "paddle.nn",
+        "description": "paddle.nn",
+        "detail": "paddle.nn",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaConfig",
+        "importPath": "paddlenlp.transformers.llama.modeling",
+        "description": "paddlenlp.transformers.llama.modeling",
+        "isExtraImport": true,
+        "detail": "paddlenlp.transformers.llama.modeling",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaModel",
+        "importPath": "paddlenlp.transformers.llama.modeling",
+        "description": "paddlenlp.transformers.llama.modeling",
+        "isExtraImport": true,
+        "detail": "paddlenlp.transformers.llama.modeling",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaForCausalLM",
+        "importPath": "paddlenlp.transformers.llama.modeling",
+        "description": "paddlenlp.transformers.llama.modeling",
+        "isExtraImport": true,
+        "detail": "paddlenlp.transformers.llama.modeling",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaAttention",
+        "importPath": "paddlenlp.transformers.llama.modeling",
+        "description": "paddlenlp.transformers.llama.modeling",
+        "isExtraImport": true,
+        "detail": "paddlenlp.transformers.llama.modeling",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaDecoderLayer",
+        "importPath": "paddlenlp.transformers.llama.modeling",
+        "description": "paddlenlp.transformers.llama.modeling",
+        "isExtraImport": true,
+        "detail": "paddlenlp.transformers.llama.modeling",
+        "documentation": {}
+    },
+    {
+        "label": "ClassInfo",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class ClassInfo:\n    \"\"\"类信息数据结构\"\"\"\n    node: cst.ClassDef\n    bases: List[str]\n    methods: Dict[str, cst.FunctionDef]\n    attributes: List[Tuple[str, cst.BaseExpression]]\n    dependencies: Set[str]\nclass ImportCollector(cst.CSTVisitor):\n    \"\"\"收集模块中的所有导入语句\"\"\"\n    METADATA_DEPENDENCIES = (PositionProvider, ParentNodeProvider, ScopeProvider)",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "ImportCollector",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class ImportCollector(cst.CSTVisitor):\n    \"\"\"收集模块中的所有导入语句\"\"\"\n    METADATA_DEPENDENCIES = (PositionProvider, ParentNodeProvider, ScopeProvider)\n    def __init__(self):\n        super().__init__()\n        self.imports: List[cst.Import] = []\n        self.from_imports: List[cst.ImportFrom] = []\n        self.imported_names: Set[str] = set()\n    def visit_Import(self, node: cst.Import) -> None:\n        self.imports.append(node)",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "ClassCollector",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class ClassCollector(cst.CSTVisitor):\n    \"\"\"收集模块中的所有类定义及其依赖\"\"\"\n    METADATA_DEPENDENCIES = (\n        PositionProvider,\n        ParentNodeProvider,\n        ScopeProvider,\n        QualifiedNameProvider\n    )\n    def __init__(self):\n        super().__init__()",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "DependencyAnalyzer",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class DependencyAnalyzer(cst.CSTVisitor):\n    \"\"\"分析代码中的依赖关系\"\"\"\n    METADATA_DEPENDENCIES = (QualifiedNameProvider,)\n    def __init__(self):\n        super().__init__()\n        self.dependencies: Set[str] = set()\n    def visit_Name(self, node: cst.Name) -> None:\n        \"\"\"收集名称依赖\"\"\"\n        qnames = self.get_metadata(QualifiedNameProvider, node)\n        for qname in qnames:",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "SuperCallTransformer",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class SuperCallTransformer(cst.CSTTransformer):\n    \"\"\"转换super().__init__()调用为展开的父类初始化代码\"\"\"\n    def __init__(self, parent_class_init: cst.FunctionDef, class_name: str):\n        self.parent_init = parent_class_init\n        self.class_name = class_name\n        self.super_call_found = False\n        self.super_call_node = None\n    def leave_Call(self, original_node: cst.Call, updated_node: cst.Call) -> cst.CSTNode:\n        \"\"\"处理super().__init__()调用\"\"\"\n        if (m.matches(original_node.func, m.Attribute(",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "ModularModelConverter",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class ModularModelConverter:\n    \"\"\"模块化模型转换器主类\"\"\"\n    def __init__(\n        self,\n        base_model: str,\n        new_model: str,\n        modular_file: str,\n        output_dir: str,\n        base_model_dir: Optional[str] = None\n    ):",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "DependencyResolver",
+        "kind": 6,
+        "importPath": "convert",
+        "description": "convert",
+        "peekOfCode": "class DependencyResolver:\n    \"\"\"依赖解析器，负责解析和收集依赖代码\"\"\"\n    def __init__(\n        self,\n        base_model: str,\n        new_model: str,\n        base_model_dir: Optional[str],\n        modular_dir: str\n    ):\n        self.base_model = base_model",
+        "detail": "convert",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2Config",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2Config(LlamaConfig):\n    \"\"\"\n    Qwen2模型配置类，基于PaddleNLP的LlamaConfig进行修改\n    添加了Qwen2特有的配置参数\n    \"\"\"\n    model_type = \"qwen2\"\n    keys_to_ignore_at_inference = [\"past_key_values\"]\n    def __init__(\n        self,\n        vocab_size=151936,",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2RMSNorm",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2RMSNorm(nn.Layer):\n    \"\"\"\n    Qwen2使用的RMSNorm实现\n    \"\"\"\n    def __init__(self, hidden_size, eps=1e-6):\n        super().__init__()\n        self.weight = paddle.create_parameter(\n            shape=[hidden_size],\n            dtype='float32',\n            default_initializer=nn.initializer.Constant(1.0)",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2Attention",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2Attention(LlamaAttention):\n    \"\"\"\n    Qwen2注意力机制，基于PaddleNLP的LlamaAttention修改\n    添加了GQA、动态NTK、Flash Attention等特性\n    \"\"\"\n    def __init__(self, config: Qwen2Config, layer_idx: Optional[int] = None):\n        super().__init__(config, layer_idx)\n        # GQA配置\n        self.num_key_value_groups = self.num_heads // self.num_key_value_heads\n        # 初始化query和key的RMSNorm",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2MLP",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2MLP(nn.Layer):\n    \"\"\"\n    Qwen2的MLP层，使用SiLU激活函数\n    \"\"\"\n    def __init__(self, config):\n        super().__init__()\n        self.gate_proj = nn.Linear(config.hidden_size, config.intermediate_size, bias_attr=False)\n        self.up_proj = nn.Linear(config.hidden_size, config.intermediate_size, bias_attr=False)\n        self.down_proj = nn.Linear(config.intermediate_size, config.hidden_size, bias_attr=False)\n        self.act_fn = nn.SiLU()",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2DecoderLayer",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2DecoderLayer(LlamaDecoderLayer):\n    \"\"\"\n    Qwen2解码器层，基于PaddleNLP的LlamaDecoderLayer修改\n    使用Qwen2Attention和Qwen2MLP\n    \"\"\"\n    def __init__(self, config: Qwen2Config, layer_idx: int):\n        super().__init__(config, layer_idx)\n        # 替换为Qwen2Attention\n        self.self_attn = Qwen2Attention(config, layer_idx)\n        # 使用Qwen2MLP",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2Model",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2Model(LlamaModel):\n    \"\"\"\n    Qwen2基础模型，基于PaddleNLP的LlamaModel修改\n    \"\"\"\n    def __init__(self, config: Qwen2Config):\n        super().__init__(config)\n        # 替换解码器层\n        self.layers = nn.LayerList(\n            [Qwen2DecoderLayer(config, i) for i in range(config.num_hidden_layers)]\n        )",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen2ForCausalLM",
+        "kind": 6,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "class Qwen2ForCausalLM(LlamaForCausalLM):\n    \"\"\"\n    Qwen2因果语言模型，基于PaddleNLP的LlamaForCausalLM修改\n    \"\"\"\n    def __init__(self, config: Qwen2Config):\n        super().__init__(config)\n        # 替换基础模型\n        self.model = Qwen2Model(config)\n        # 初始化权重\n        self.apply(self.init_weights)",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "apply_rotary_pos_emb",
+        "kind": 2,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "def apply_rotary_pos_emb(q, k, cos, sin, position_ids=None):\n    \"\"\"\n    应用旋转位置编码，支持动态NTK和线性缩放\n    \"\"\"\n    cos = cos.unsqueeze(2)\n    sin = sin.unsqueeze(2)\n    q_embed = (q * cos) + (rotate_half(q) * sin)\n    k_embed = (k * cos) + (rotate_half(k) * sin)\n    return q_embed, k_embed\ndef rotate_half(x):",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "rotate_half",
+        "kind": 2,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "def rotate_half(x):\n    \"\"\"\n    旋转一半的隐藏维度\n    \"\"\"\n    x1 = x[..., :x.shape[-1] // 2]\n    x2 = x[..., x.shape[-1] // 2:]\n    return paddle.concat([-x2, x1], axis=-1)\n# GQA函数\ndef repeat_kv(hidden_states: paddle.Tensor, n_rep: int) -> paddle.Tensor:\n    \"\"\"",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "modular_qwen2",
+        "description": "modular_qwen2",
+        "peekOfCode": "def repeat_kv(hidden_states: paddle.Tensor, n_rep: int) -> paddle.Tensor:\n    \"\"\"\n    为Grouped Query Attention重复key和value，优化内存布局\n    \"\"\"\n    batch, seq_len, num_key_value_heads, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    # 优化内存访问模式\n    hidden_states = hidden_states.unsqueeze(3).tile([1, 1, 1, n_rep, 1])\n    return hidden_states.reshape([batch, seq_len, num_key_value_heads * n_rep, head_dim])",
+        "detail": "modular_qwen2",
+        "documentation": {}
+    }
+]

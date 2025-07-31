@@ -9,12 +9,12 @@ PaddleNLP 模块化系统由三个主要组件组成，它们协同工作以将�
 <img width="1679" height="555" alt="d26082acbdf0e88300d21790702e89f5" src="https://github.com/user-attachments/assets/cedd60f1-425f-4304-8f96-119745f6c0bf" />
 
 **核心组件概述：**
-
-元件	代码实体	主要功能
-模型转换器	ModularModelConverter	协调整个转型过程
-模块化定义	modular_qwen2.py	定义扩展基础模型的新模型架构
-生成的输出	modeling_qwen2.py	完整的独立模型实现
-导入分辨率	ImportCollector	识别并收集所有必需的进口
-类处理	ClassCollector	提取和处理类定义
-依赖关系管理	DependencyResolver	解析和集成外部依赖关系
-代码转换	SuperCallTransformer	转换继承模式和方法调用
+| 元件	| 代码实体	| 主要功能 |
+|-------|----------|----------|
+|模型转换器|	ModularModelConverter|	协调整个转型过程|
+|块化定义	|modular_qwen2.py|	定义扩展基础模型的新模型架构|
+|生成的输出	|modeling_qwen2.py|	完整的独立模型实现|
+|导入分辨率|	ImportCollector	|识别并收集所有必需的进口|
+|类处理	|ClassCollector|	提取和处理类定义|
+|依赖关系管理|	DependencyResolver|	解析和集成外部依赖关系|
+|代码转换|	SuperCallTransformer|	转换继承模式和方法调用|
