@@ -18,6 +18,9 @@ PaddleNLP 模块化系统由三个主要组件组成，它们协同工作以将�
 |类处理	|ClassCollector|	提取和处理类定义|
 |依赖关系管理|	DependencyResolver|	解析和集成外部依赖关系|
 |代码转换|	SuperCallTransformer|	转换继承模式和方法调用|
+**模型转换**
+转换过程遵循系统工作流程，通过多个阶段的分析和代码生成来转换模块化定义：
+![alt text](f9950dee47aab4918e0dc9702f21cb01.png)
 **工作流程**
 分析阶段：用于解析模块化定义文件，通过专门的访问者类提取导入和类定义。ModularModelConverterlibcst
 
